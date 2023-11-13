@@ -67,7 +67,7 @@ var commands = [
 			 ]	
 	},{
 		input: 'help',
-		output: 'Fork it on <a href="http://github.com/alexmoreno/METERminal">github</a> and have some fun =)'
+		output: 'Fork it on <a href="http://github.com/Dcerverizzo/Porterminal">github</a> and have some fun =)'
 
 	}
 
